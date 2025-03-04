@@ -7,3 +7,6 @@
 *Jak system ma działać?* *Jakie ma mieć właściwości?*
 1. System powinien być wydajny, aby przetwarzać dane tekstowe w kilka sekund.  
 2. Interfejs użytkownika powinien być intuicyjny. 
+
+
+![Śmieszny kot](https://media.tenor.com/AW8KSxi5SikAAAAi/nyan.gif)
