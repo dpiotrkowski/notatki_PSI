@@ -1,6 +1,7 @@
-## Jakie elementy dokumentacji powinny znaleźć się w projekcie, aby umożliwić jego odtworzenie przez inną osobę?**
+## Jakie elementy dokumentacji powinny znaleźć się w projekcie, aby umożliwić jego odtworzenie przez inną osobę?
 
 Dokumentacja powinna zawierać:
+
 1. **Dane wejściowe**:
    - Oryginalne dane (lub link do źródła) muszą być dostępne, aby osoba trzecia mogła je wykorzystać do replikacji wyników.
 2. **Środowisko pracy**:
