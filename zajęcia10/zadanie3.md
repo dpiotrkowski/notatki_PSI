@@ -1,6 +1,9 @@
 ## Tablica Kanban dla projektu modelowania tematów
 
-| Do zrobienia (To Do)                          | W trakcie (In Progress)         | Zrobione (Done)                  |
+Tutaj link do [Github
+Projects](https://github.com/users/dpiotrkowski/projects/3). 
+
+| 🟡 Do zrobienia (To Do)                          |  🟠 W trakcie (In Progress)         | 🟢 Zrobione (Done)                  |
 |-----------------------------------------------|----------------------------------|----------------------------------|
 | 1. Zdefiniowanie celu projektu                | 1. Zbieranie danych              | 1. Zdefiniowanie celu projektu   |
 | 2. Zbieranie danych                           | 2. Wstępne przetwarzanie danych  | 2. Wybór algorytmu modelowania tematów |
